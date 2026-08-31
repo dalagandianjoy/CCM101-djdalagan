@@ -1,19 +1,19 @@
-*Linux Distribution
+# Linux Distribution
 -Distributor ID: Ubuntu
 -Description: Ubuntu 24.04.4 LTS
 -Release: 24.04
 -Codename : noble
 
-*Kernel Version
+# Kernel Version
 -6.8.0-136-generic
 
-*CPU Information
+# CPU Information
 -Architecture: x86_64
 -CPU(s): 1
 -Vendor ID: GenuineINtel
 -Model Name: Intel Xeon E312xx(Sandy Bridge, IBRS update)
 
-*Total Memory
+# Total Memory
 -Tota; 1.9 Gib
 -Available: 1.4Gib
 
