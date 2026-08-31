@@ -1,6 +1,6 @@
 # Cloud Infrastructure Components
 
- 1. Compute Resources
+# 1. Compute Resources
 
 Purpose:
 Compute resources provide the processing power that a system needs to perform different tasks and run programs.
@@ -11,7 +11,7 @@ Compute resources are important in cloud computing because they allow servers to
 KillerCoda Environment:
 When I checked the KillerCoda server using the lscpu and free -h commands, I found that it uses an Intel Xeon E312xx processor with 1 CPU core and 1.9 GiB of RAM.
 
- 2. Storage Resources
+# 2. Storage Resources
 
 Purpose:
 Storage resources are used to keep files, programs, system files, and other data.
@@ -21,7 +21,7 @@ Storage is important in cloud computing because servers need space to store the 
 
 KillerCoda Environment:
 Using the df -h command, I found that the main disk of the KillerCoda server has about 19 GB of storage. I also observed /dev/vda1, which is used as the main file system.
- 3. Networking Resources
+# 3. Networking Resources
 
 Purpose:
 Networking resources allow computers and servers to communicate with each other and connect to other networks.
@@ -32,7 +32,7 @@ Networking is important in cloud computing because users need a network connecti
 KillerCoda Environment:
 I used the hostname -I command to check the IP addresses of the server. The addresses shown were 172.30.1.2 and 172.17.0.1.
 
- 4. Operating System
+# 4. Operating System
 
 Purpose:
 The operating system manages the hardware and software resources of a computer and allows users to run programs and commands.
