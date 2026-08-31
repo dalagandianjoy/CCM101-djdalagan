@@ -1,4 +1,4 @@
- Cloud Provider Comparison
+# Cloud Provider Comparison
 
 | Infrastructure Component | AWS | Microsoft Azure | Google Cloud Platform |
 |---|---|---|---|
