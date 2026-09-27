@@ -1,1 +1,9 @@
+# Mission Reflection
 
+In this laboratory activity, I learned how Docker Compose can make deploying applications easier, especially when more than one container is needed. Instead of manually typing separate commands for every container, I was able to define the Nextcloud application and MariaDB database inside one `docker-compose.yml` file. After creating the file, I only needed to run `docker-compose up -d` to start both containers. This made me understand why configuration files can be useful when managing more complex applications.
+
+I also learned that writing a YAML file requires attention to detail. The indentation needs to be correct because YAML uses spaces to understand how the configuration is organized. A small indentation mistake can cause an error or prevent Docker Compose from reading the file correctly. I also learned about environment variables such as `MYSQL_PASSWORD`, `MYSQL_DATABASE`, `MYSQL_USER`, and `MYSQL_HOST`. These variables were used to provide the settings that Nextcloud and MariaDB needed to communicate with each other.
+
+Seeing the Nextcloud installation page in the browser was one of the most interesting parts of this activity. At first, the Compose file looked complicated, but after running it and seeing both containers working, I understood the purpose of the configuration better. It was surprising that a web application and its database could be deployed together in just a few minutes.
+
+Since Mission 1, my understanding of Cloud Computing has improved a lot. At first, I was mostly learning basic Linux commands and cloud concepts. As I continued with the laboratory activities, I experienced working with Docker, containers, object storage, and now Docker Compose. I still need more practice, but I am becoming more comfortable with the command line and I understand better how different cloud technologies can work together.
