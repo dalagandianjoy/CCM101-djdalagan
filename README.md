@@ -20,4 +20,5 @@ This repository serves as my Cloud Computing Portfolio for CCM101. It will conta
 - Laboratory-06-Cloud-Deployment-Engineer
 - Laboratory-07-Cloud-Operations-ENgineer
 - Laboratory-08-Cloud-Security-Engineer
-- Laboratory-08-Cloud-Automation-Enguneer
+- Laboratory-09-Cloud-Automation-Engineer
+- Laboratory-10-Enterprise-Cloud-Architecture
