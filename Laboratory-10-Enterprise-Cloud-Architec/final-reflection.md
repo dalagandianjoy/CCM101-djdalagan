@@ -5,18 +5,12 @@
 
 ## My Final Reflection
 
-During our Cloud Computing laboratory activities, I learned many new things, especially about Linux, virtual machines, and server configuration. At first, I was not very familiar with the different tools and procedures we were using. However, as we continued with each activity, I gradually became more confident in using the commands and following the required steps.
+Throughout Missions 1 to 10, I learned many things about cloud computing, Linux, virtual machines, Docker, storage, networking, and server security. At first, I was unfamiliar with some of the commands and tools, but as we completed each activity, I gradually became more confident in using them.
 
-For our final activity, Mission 10, our group created a Nextcloud file-sharing system using Ubuntu Server, Docker, and MariaDB. My responsibilities focused on setting up the Ubuntu Server and helping Diana with the firewall configuration.
+I learned how to explore Linux systems, understand different cloud providers, run Docker containers, manage storage, monitor applications, and configure firewall rules. These activities helped me understand how different technologies work together in a cloud environment.
 
-One of the difficulties I experienced was connecting the Ubuntu Server to our Windows laptop. There were times when the connection was not working properly, so we had to check the IP address, network configuration, and SSH connection. Although this was challenging, it helped me gain a better understanding of how server networking works.
+For our final activity, Mission 10, our group created a Nextcloud file-sharing system using Ubuntu Server, Docker, and MariaDB. My responsibilities focused on setting up Ubuntu Server and helping with the firewall configuration. One challenge we experienced was connecting the server to our Windows laptop, which required checking the IP address, network settings, and SSH connection.
 
-I also learned how to use UFW to secure the server and allow only the necessary ports. Before completing this activity, I did not fully understand the purpose of firewall rules. Through this project, I realized how important proper security is when managing and accessing a server.
+The part I enjoyed most was successfully accessing Nextcloud through the browser, uploading files, and checking if the data remained available after restarting Ubuntu. It was fulfilling to see the results of our work.
 
-The part I enjoyed most was being able to see the actual output of our work. We successfully accessed Nextcloud through the browser, uploaded files, and checked whether the data was still available after restarting Ubuntu. Seeing the system function properly made me appreciate the effort and teamwork that our group put into the project.
-
-This activity also taught me that patience and cooperation are important when working on a technical project. Although each member had different responsibilities, we still needed to help and communicate with one another because every part of the system was connected.
-
-Overall, Missions 1 to 10 helped me improve my knowledge and confidence in cloud computing. I know that there are still many things I need to learn, but these laboratory activities helped me understand better how servers, applications, security, and automation work together.
-
-I am thankful that we were able to apply the knowledge we gained by building a functional project. Even though we encountered some problems along the way, overcoming those challenges made the experience more meaningful and helped me learn from the process.
+Overall, these laboratory activities improved my knowledge and confidence in cloud computing. I also learned the importance of teamwork, patience, and problem-solving. Although we encountered difficulties, each activity gave me valuable experience that I can use in my future learning and career.
